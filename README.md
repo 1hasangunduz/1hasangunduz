@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @1hasangunduz
-- 👀 I’m interested in Java and Python for Backend and Test Automation Develop
+- 👋 Hi, I’m Hasan GUNDUZ
+- 👀 I’m interested in Java and Python for Back-end and Test Automation Dev.
 - 🌱 I’m currently learning "Java for Automation"
-- 💞️ I’m looking to collaborate on Developer Engineer
+- 💞️ I’m looking to collaborate on Jr. Java Developer Engineer
 - 📫 How to reach me hasangunduz1010@gmail.com  or Linkedin.com/in/hasangündüz
 
 <!---
