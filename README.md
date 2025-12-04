@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Hasan GÜNDÜZ</h1>
-<p align="center">🚀 SDET | Test Automation | CI/CD | Backend & API Testing | Mobile QA</p>
+<h1 align="center">Hasan Gunduz</h1>
+<p align="center">🚀 SDET | Test Automation Engineer | CI/CD | Backend & API Testing | Mobile QA</p>
 
 ---
 
