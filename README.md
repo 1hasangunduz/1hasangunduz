@@ -44,7 +44,7 @@
 
 ### ☁️ DevOps & Observability
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker,jenkins ,grafana" height="40"/>
 </p>
 
 ---
