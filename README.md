@@ -31,7 +31,6 @@
 #### 📱 Mobile Automation
 <p>
 <img src="https://img.shields.io/badge/Appium-Mobile_Automation-6C2B8C?style=for-the-badge&logo=appium&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Real%20Device%20Testing-Hand_Testing-2E8B57?style=for-the-badge" height="28"/>
 </p>
 
 ---
