@@ -9,9 +9,6 @@
 ## Contact & Social
 
 <p align="center">
-  <a href="mailto:hasangunduz1010@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="45"/>
-  </a>&nbsp;
   <a href="https://www.linkedin.com/in/gunduzhasan" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="45"/>
   </a>&nbsp;
