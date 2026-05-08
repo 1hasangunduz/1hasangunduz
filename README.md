@@ -123,7 +123,12 @@ const hasan = {
 
 ### ✍️ Latest from Medium
 
-<!-- BLOG-POST-LIST:START -->- [Race Condition-Safe Bank Transfer Service using Spring Boot, Kafka and PostgreSQL](https://medium.com/@hasangunduz/race-condition-safe-bank-transfer-service-using-spring-boot-kafka-and-postgresql-de49693e0e84?source=rss-d01d3dda3be6------2) <sub>·  Apr 10, 2025</sub>- [Test Otomasyonunda Yeni Trend: Selenium vs Playwright](https://medium.com/@hasangunduz/test-otomasyonunda-yeni-trend-selenium-vs-playwright-ca63d53ff04a?source=rss-d01d3dda3be6------2) <sub>·  Jan 15, 2025</sub>- [Tasarımsal Hataları Nasıl Tespit Edebiliriz ?](https://medium.com/@hasangunduz/tasar%C4%B1msal-hatalar%C4%B1-nas%C4%B1l-tespit-edebiliriz-15e818e09916?source=rss-d01d3dda3be6------2) <sub>·  Dec 27, 2024</sub>- [Yapay Zekanın Yazılım Test  Süreçlerinde Kullanımı](https://medium.com/hangikredi/yapay-zekan%C4%B1n-yaz%C4%B1l%C4%B1m-test-s%C3%BCre%C3%A7lerinde-kullan%C4%B1m%C4%B1-531695c8a73f?source=rss-d01d3dda3be6------2) <sub>·  Sep 30, 2024</sub>- [Makine Öğrenmesi Yöntemleri](https://medium.com/@hasangunduz/makine-%C3%B6%C4%9Frenmesi-y%C3%B6ntemleri-ab78f39d3902?source=rss-d01d3dda3be6------2) <sub>·  Jul 13, 2024</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [Race Condition-Safe Bank Transfer Service using Spring Boot, Kafka and PostgreSQL](https://medium.com/@hasangunduz/race-condition-safe-bank-transfer-service-using-spring-boot-kafka-and-postgresql-de49693e0e84?source=rss-d01d3dda3be6------2) <sub>·  Apr 10, 2025</sub>
+- [Test Otomasyonunda Yeni Trend: Selenium vs Playwright](https://medium.com/@hasangunduz/test-otomasyonunda-yeni-trend-selenium-vs-playwright-ca63d53ff04a?source=rss-d01d3dda3be6------2) <sub>·  Jan 15, 2025</sub>
+- [Tasarımsal Hataları Nasıl Tespit Edebiliriz ?](https://medium.com/@hasangunduz/tasar%C4%B1msal-hatalar%C4%B1-nas%C4%B1l-tespit-edebiliriz-15e818e09916?source=rss-d01d3dda3be6------2) <sub>·  Dec 27, 2024</sub>
+- [Yapay Zekanın Yazılım Test  Süreçlerinde Kullanımı](https://medium.com/hangikredi/yapay-zekan%C4%B1n-yaz%C4%B1l%C4%B1m-test-s%C3%BCre%C3%A7lerinde-kullan%C4%B1m%C4%B1-531695c8a73f?source=rss-d01d3dda3be6------2) <sub>·  Sep 30, 2024</sub>
+- [Makine Öğrenmesi Yöntemleri](https://medium.com/@hasangunduz/makine-%C3%B6%C4%9Frenmesi-y%C3%B6ntemleri-ab78f39d3902?source=rss-d01d3dda3be6------2) <sub>·  Jul 13, 2024</sub>
+<!-- BLOG-POST-LIST:END -->
 
 <sub>📡 Auto-updated daily via [`blog-post-workflow`](https://github.com/gautamkrishnar/blog-post-workflow). See <a href="https://medium.com/@hasangunduz">all articles</a>.</sub>
 
