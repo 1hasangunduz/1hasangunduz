@@ -1,0 +1,26 @@
+name: Latest Medium Posts
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pull latest Medium posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@hasangunduz"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>·  $date</sub>"
+          date_format: "mmm d, yyyy"
+          commit_message: "chore: refresh latest Medium posts"
